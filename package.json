@@ -1,6 +1,6 @@
 {
   "name": "possessive",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A library to make strings possessive",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,9 @@
     "url": "https://github.com/loganhuskins/possessive/issues"
   },
   "standard": {
-    "env": [ "mocha" ]
+    "env": [
+      "mocha"
+    ]
   },
   "homepage": "https://github.com/loganhuskins/possessive#readme",
   "devDependencies": {
